@@ -3,9 +3,8 @@
 /**
  * Beautiful QR Code generator
  * By NimaH79
- * NimaH79.ir
+ * NimaH79.ir.
  */
-
 require __DIR__.'/phpqrcode/beautiful-qr-code.php';
 
 $text = '@Radio_Nima';
